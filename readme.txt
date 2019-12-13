@@ -1,6 +1,3 @@
-# Prediction of Water Quality
-# Dataset of Accurate Prediction of Water Quality
- 
 The experimental data contains four parts. The instructions are as follows:
 
 Original data.csv --  Raw data collected through the Internet of things system.
